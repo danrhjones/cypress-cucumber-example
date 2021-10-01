@@ -1,4 +1,4 @@
-Feature: Launch Versions
+Feature: Do some things
   As a user
   I want to be able to view the revisions history
 

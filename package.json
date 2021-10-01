@@ -15,20 +15,20 @@
   "license": "ISC",
   "dependencies": {
     "cucumber-html-reporter": "^5.0.2",
-    "cypress": "^3.7.0",
-    "cypress-cucumber-preprocessor": "1.18.0",
-    "faker": "^4.1.0",
-    "gherkin-lint": "^3.3.10"
+    "cypress": "^8.5.0",
+    "cypress-cucumber-preprocessor": "1.19.2",
+    "faker": "^5.5.3",
+    "gherkin-lint": "^4.2.2"
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-config-prettier": "^6.9.0",
-    "eslint-plugin-import": "^2.20.0",
-    "eslint-plugin-prettier": "^3.1.2",
-    "husky": "^4.0.10",
-    "lint-staged": "^10.0.1",
-    "prettier": "1.19.1"
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-prettier": "^4.0.0",
+    "husky": "^5.2.0",
+    "lint-staged": "^11.1.2",
+    "prettier": "2.4.1"
   },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true,
